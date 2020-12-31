@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=TawkirAlif&style=for-the-badge&url=https%3A%2F%2Ftawkiralif.business.site)](https://tawkiralif.business.site)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alif_tawkir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falif_tawkir&screen_name=alif_tawkir)
+[![Linkedin Connect](https://img.shields.io/twitter/follow/tawkiralif?color=1DA1F2&logo=twitter&style=for-the-badge)](https://linkedin.com/in/tawkiralif)
 
 ## I'm a React Developer based on JavaScript, and Student!!
 
@@ -17,10 +18,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tawkir alif" width="22px" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" />][website]
-[<img align="left" alt="tawkir alif | Twitter" width="22px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />][twitter]
-[<img align="left" alt="tawkir alif | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
-[<img align="left" alt="tawkir alif | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
+[<img align="left" alt="tawkir alif" width="25px" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" />][website]
+[<img align="left" alt="tawkir alif | Twitter" width="25px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />][twitter]
+[<img align="left" alt="tawkir alif | LinkedIn" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
+[<img align="left" alt="tawkir alif | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
 
 <br />
 
