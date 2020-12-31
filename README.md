@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alif_tawkir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falif_tawkir&screen_name=alif_tawkir)
 
 
-## I'm a React Developer based on JavaScript, and Student!!
+## I'm a React Developer based on JavaScript. and i'm also a Student of CSE!!
 
 - 🔭 I just launched my first project with fully featured: [Swipe][project]!
 - 🌱 I’m currently learning everything about JavaScript, React, Nodejs etc.
