@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=TawkirAlif&style=for-the-badge&url=https%3A%2F%2Ftawkiralif.business.site)](https://tawkiralif.business.site)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alif_tawkir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falif_tawkir&screen_name=alif_tawkir)
-[![Linkedin Connect](https://img.shields.io/twitter/follow/tawkiralif?color=1DA1F2&logo=twitter&style=for-the-badge)](https://linkedin.com/in/tawkiralif)
+
 
 ## I'm a React Developer based on JavaScript, and Student!!
 
