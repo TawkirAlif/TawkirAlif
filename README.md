@@ -3,10 +3,18 @@
 [![Website](https://img.shields.io/website?label=TawkirAlif&style=for-the-badge&url=https%3A%2F%2Ftawkiralif.business.site)](https://tawkiralif.business.site)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alif_tawkir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falif_tawkir&screen_name=alif_tawkir)
 
+### Connect with me:
+
+[<img align="left" alt="tawkir alif" width="25px" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" />][website]
+[<img align="left" alt="tawkir alif | Twitter" width="25px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />][twitter]
+[<img align="left" alt="tawkir alif | LinkedIn" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
+[<img align="left" alt="tawkir alif | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
+
+<br />
 
 ## I'm a React Developer based on JavaScript. and i'm also a Student of CSE!!
 
-- 🔭 I just launched my first project with fully featured: [Swipe][project]!
+- 🔭 I just launched my 5th project with fully featured: [Swipe][project]!
 - 🌱 I’m currently learning everything about JavaScript, React, Nodejs etc.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
@@ -15,13 +23,6 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[<img align="left" alt="tawkir alif" width="25px" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" />][website]
-[<img align="left" alt="tawkir alif | Twitter" width="25px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />][twitter]
-[<img align="left" alt="tawkir alif | LinkedIn" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
-[<img align="left" alt="tawkir alif | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
 
 <br />
 
