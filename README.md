@@ -10,6 +10,23 @@
 
 <br />
 
+
+
+---
+## I'm a React Developer based on JavaScript. and i'm also a Student of CSE!!
+
+- 🔭 I just launched my 5th project with fully featured: [Swipe][project]!
+- 🌱 I’m currently learning everything about JavaScript, React, Nodejs etc.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to photography and playing computer on own way 😅
+
+<br />
+
+
+<br />
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -40,17 +57,26 @@ const tawkir_alif = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-## I'm a React Developer based on JavaScript. and i'm also a Student of CSE!!
 
-- 🔭 I just launched my 5th project with fully featured: [Swipe][project]!
-- 🌱 I’m currently learning everything about JavaScript, React, Nodejs etc.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to photography and playing computer on own way 😅
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
-### Spotify Playing 🎧
+  </td>
+  <td width="50%">
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+</p>
+  </td>
+  </table>
+
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
 <br />
 
