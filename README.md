@@ -49,12 +49,12 @@
 <br />
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TawkirAlif&show_icons=true&hide_border=true" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TawkirAlif&show_icons=true&hide_border=true&theme=synthwave" />
 
-</details>
+
 
 [website]: https://tawkiralif.business.site
 [project]: http://swipe4z.web.app
