@@ -3,15 +3,44 @@
 [![Website](https://img.shields.io/website?label=TawkirAlif&style=for-the-badge&url=https%3A%2F%2Ftawkiralif.business.site)](https://tawkiralif.business.site)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alif_tawkir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falif_tawkir&screen_name=alif_tawkir)
 
-### Connect with me:
-
-[<img align="left" alt="tawkir alif" width="25px" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" />][website]
-[<img align="left" alt="tawkir alif | Twitter" width="25px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />][twitter]
-[<img align="left" alt="tawkir alif | LinkedIn" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
-[<img align="left" alt="tawkir alif | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
+<br />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>CEO & Software Engineer at <a href="https://swipe4z.web.app">Swipe</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <br />
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "Html", "Css"],
+    askMeAbout: ["web dev", "Project organizing", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["{Android App}, {IOS App}"],
+        frontEnd: {
+            js: ["React", "React Native"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["django"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "Firebase{ Fire Store }"],
+        misc: ["Firebase", "Socket.IO", "selenium",]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
 ## I'm a React Developer based on JavaScript. and i'm also a Student of CSE!!
 
 - 🔭 I just launched my 5th project with fully featured: [Swipe][project]!
@@ -45,7 +74,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
+
+
 <br />
 
 
@@ -53,6 +83,15 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TawkirAlif&show_icons=true&hide_border=true&theme=synthwave" />
+  
+ <br />
+
+### Connect with me:
+
+[<img align="left" alt="tawkir alif" width="25px" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" />][website]
+[<img align="left" alt="tawkir alif | Twitter" width="25px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />][twitter]
+[<img align="left" alt="tawkir alif | LinkedIn" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
+[<img align="left" alt="tawkir alif | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
 
 
 
