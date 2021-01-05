@@ -30,13 +30,6 @@
 <br />
 
 ---
-## I'm a React Developer based on JavaScript. and i'm also a Student of CSE!!
-
-- 🔭 I just launched my 5th project with fully featured: [Swipe][project]!
-- 🌱 I’m currently learning everything about JavaScript, React, Nodejs etc.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to photography and playing computer on own way 😅
 
 <br />
 
