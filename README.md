@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/website?label=TawkirAlif&style=for-the-badge&url=https%3A%2F%2Ftawkiralif.business.site)](https://tawkiralif.business.site)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alif_tawkir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falif_tawkir&screen_name=alif_tawkir)
 
-<br />
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>CEO & Software Engineer at <a href="https://swipe4z.web.app">Swipe</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -22,6 +21,22 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="600" alt="Hello World !">
 
+```javascript
+const Tawkir_Alif = {
+    pronouns: "He" | "Him",
+    Born_on: ["june", "20", "2004"],
+    Nationality: ["Bnagladeshi"],
+    Living_Aria: {
+        Par.Address: ["{Kandirpar Road(3552)}, {Cheora, Chouddogram}"],
+        Pre.Address: {
+            Now: ["Dhaka", "Bangladesh"],
+            Post Code: ["1208"]
+        },
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+<br />
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TawkirAlif/count.svg" />
@@ -33,11 +48,10 @@
 
 <br />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About My Profession...  
 
 ```javascript
-const tawkir_alif = {
-    pronouns: "He" | "Him",
+const Tawkir_Alif = {
     code: ["Javascript", "Python", "Java", "Html", "Css"],
     askMeAbout: ["web dev", "Project organizing", "app dev", "photography"],
     technologies: {
