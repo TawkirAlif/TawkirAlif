@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="600" alt="Hello World !">
 
-<p aling="center"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TawkirAlif/count.svg" />
 </p>
