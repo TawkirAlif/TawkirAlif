@@ -4,9 +4,19 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alif_tawkir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falif_tawkir&screen_name=alif_tawkir)
 
 <br />
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>CEO & Software Engineer at <a href="https://swipe4z.web.app">Swipe</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+---
+## I'm a React Developer based on JavaScript. and i'm also a Student of CSE!!
+
+- 🔭 I just launched my 5th project with fully featured: [Swipe][project]!
+- 🌱 I’m currently learning everything about JavaScript, React, Nodejs etc.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to photography and playing computer on own way 😅
 
 <br />
 
