@@ -35,18 +35,11 @@ const Tawkir_Alif = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-<br />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TawkirAlif/count.svg" />
-</p>
 
 <br />
 
 ---
-
-<br />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About My Profession...  
 
@@ -130,6 +123,11 @@ const Tawkir_Alif = {
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TawkirAlif&show_icons=true&hide_border=true&theme=synthwave" />
   
  <br />
+ 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/TawkirAlif/count.svg" />
+</p>
 
 ### Connect with me:
 
