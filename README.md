@@ -19,22 +19,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="600" alt="Hello World !">
 
-```react.js
-const Tawkir_Alif = {
-    pronouns: "He" | "Him",
-    Born_on: ["june", "20", "2004"],
-    Nationality: ["Bnagladeshi"],
-    Living_Aria: {
-        Permanent.Address: ["{Kandirpar Road(3552)}, {Cheora, Chouddogram}"],
-        Present.Address: {
-            Now: ["Dhaka", "Bangladesh"],
-            Post_Code: ["1208"]
-        },
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
 
 
 <br />
